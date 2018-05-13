@@ -112,6 +112,7 @@ function generateRandomColors(num){
 	return arr;
 }
 
+// To calculate random value
 function randomColor(){
 	var r = Math.floor(Math.random() * 256);
 
